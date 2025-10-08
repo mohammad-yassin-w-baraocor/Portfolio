@@ -8,7 +8,7 @@ export const aboutList1 = [
   {
     id: 1,
     description: 'Email',
-    value: 'juandelacruz@email.com',
+    value: 'mohammadyassin@gmail.com',
   },
   {
     id: 2,
