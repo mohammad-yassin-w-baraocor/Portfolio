@@ -9,7 +9,7 @@ export const Logo = () => {
         end
         className={({ isActive }) => (isActive ? css.linkActive : css.link)}
       >
-        JDC
+        Mohammad Yassin W. Baraocor
       </NavLink>
     </div>
   );
